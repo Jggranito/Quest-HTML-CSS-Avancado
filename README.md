@@ -45,5 +45,5 @@ Os usuários devem ser capazes de:
 
 ## Autor
 
-- Mentor de frontend - [@Jggranito](https://www.frontendmentor.io/profile/Jggranito)
+- Frontend Mentor - [@Jggranito](https://www.frontendmentor.io/profile/Jggranito)
 - Twitter - [@Jggranito_](https://twitter.com/Jggranito_)
