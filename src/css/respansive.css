@@ -5,6 +5,7 @@
         height: 100vh;
         padding: 33px;
         background: url('../images/bg-mobile.svg') no-repeat;
+        background-size: 100%;
         background-color: var(--background-color);
 
     }

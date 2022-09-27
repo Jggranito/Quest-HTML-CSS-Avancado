@@ -6,9 +6,9 @@
 /* font-family: 'Open Sans', sans-serif; */
 
 .container {
-    background: url('../images/bg-desktop.svg') center center no-repeat;
+    background: url('../images/bg-desktop.svg') left no-repeat;
     background-color: var(--background-color);
-    background-size: cover;
+    background-size: contain;
     height: 100vh;
     padding: 54px 85px 40px 70px;
     display: grid;
