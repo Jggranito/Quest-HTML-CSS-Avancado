@@ -31,8 +31,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [](https://github.com/Jggranito/Quest-HTML-CSS-Avancado)
-- URL do site ao vivo: [](https://jggranito.github.io/Quest-HTML-CSS-Avancado/)
+- URL da solução: [https://github.com/Jggranito/Quest-HTML-CSS-Avancado](https://github.com/Jggranito/Quest-HTML-CSS-Avancado)
+- URL do site ao vivo: [https://jggranito.github.io/Quest-HTML-CSS-Avancado/](https://jggranito.github.io/Quest-HTML-CSS-Avancado/)
 
 ## Meu processo
 
