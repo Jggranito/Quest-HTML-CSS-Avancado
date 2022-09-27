@@ -26,6 +26,7 @@ Os usuários devem ser capazes de:
 - Desktop - ![](./Screenshot/1440x800.png)
 
 - Mobile  -
+
 ![](./Screenshot/375x800.png)
 
 ### Links
