@@ -1,0 +1,65 @@
+@media (max-width: 375px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        padding: 33px;
+        background: url('../images/bg-mobile.svg') no-repeat;
+        background-color: var(--background-color);
+
+    }
+
+    .container .header img{
+        max-height: 32px;
+    }
+
+    .container .ilustracao {
+        margin-top: 50px;
+        padding: 4px;
+    }
+
+    .container .ilustracao img {
+        width: 100%;
+    }
+
+    .container .texto {
+        padding: 0;
+        margin-top: 50px;
+    }
+
+    .container .texto .titulo{
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .container .texto .paragrafo {
+        margin: 14px 5px;
+        text-align: center;
+        font-size: 16px;
+        line-height: 25px;
+    }
+
+    .container .texto .botao {
+        display: flex;
+        justify-content: center;
+    }
+
+    .container .texto .botao a {
+        margin-top: 9px;
+        height: 40px;
+        font-size: 13px;
+    }
+
+    .container .social {
+        display: flex;
+        justify-content: center;
+        font-size: 15px;
+        gap: 8px;
+        margin-top: 62px;
+    }
+    
+    .container .social a {
+        height: 30px;
+        width: 30px;
+    }
+}
