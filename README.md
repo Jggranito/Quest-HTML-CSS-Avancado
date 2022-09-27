@@ -10,13 +10,7 @@ Esta é uma solução para o [desafio da página inicial do Huddle com uma únic
    - [Links](#links)
 - [Meu processo](#meu-processo)
    - [Construído com](#construído-com)
-   - [O que aprendi](#o-que-aprendi)
-   - [Desenvolvimento contínuo](#desenvolvimento contínuo)
-   - [Recursos úteis](#useful-resources)
 - [Autor](#autor)
-- [Agradecimentos](#agradecimentos)
-
-**Observação: exclua esta nota e atualize o índice com base nas seções que você mantém.**
 
 ## Visão geral
 
@@ -34,8 +28,8 @@ Mobile  - ![](./Screenshot/375x800.png)
 
 ### Links
 
-- URL da solução: [Adicione o URL da solução aqui](https://your-solution-url.com)
-- URL do site ao vivo: [Adicione o URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [](https://github.com/Jggranito/Quest-HTML-CSS-Avancado)
+- URL do site ao vivo: [](https://jggranito.github.io/Quest-HTML-CSS-Avancado/)
 
 ## Meu processo
 
@@ -45,10 +39,6 @@ Mobile  - ![](./Screenshot/375x800.png)
 - Propriedades personalizadas de CSS
 - Flexbox
 - Grade CSS
-
-### O que eu aprendi
-
-Use esta seção para recapitular alguns de seus principais aprendizados ao trabalhar neste projeto. Escrevê-los e fornecer amostras de código das áreas que você deseja destacar é uma ótima maneira de reforçar seu próprio conhecimento.
 
 ## Autor
 
