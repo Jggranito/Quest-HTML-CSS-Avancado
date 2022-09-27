@@ -5,48 +5,48 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 /* font-family: 'Open Sans', sans-serif; */
 
-.container {
-    background: url('../images/bg-desktop.svg') left no-repeat;
-    background-color: var(--background-color);
-    background-size: contain;
-    height: 100vh;
-    padding: 54px 85px 40px 70px;
+body {
     display: grid;
     grid-template-areas: "header header"
                          "ilustracao texto"
                          "footer footer";
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 1fr 0.2fr 1fr;
+    background: url('../images/bg-desktop.svg') left top no-repeat;
+    background-color: var(--background-color);
+    background-size: contain;
+    height: 100vh;
+    padding: 54px 85px 40px 70px;
 }
 
 /* ---------------------Header------------------ */
-.container .header {
+.header {
     grid-area: header;
 }
 
-.container .header img {
+.header img {
     max-height: 53px;
 }
 
 /* -------------------ilustração--------------- */
-.container .ilustracao {
+.ilustracao {
     grid-area: ilustracao;
     margin:80px 0 0;
 }
 /* --------------------texto------------------- */
-.container .texto {
+.texto {
     grid-area: texto;
     padding: 125px 0 0 52px;
 }
 
-.container .texto .titulo {
+.texto .titulo {
     font-family: 'Poppins', sans-serif;
     color: #fff;
     text-transform: capitalize;
     font-size: 40px;
 }
 
-.container .texto .paragrafo {
+.texto .paragrafo {
     font-family: 'Open Sans', sans-serif;
     font-size: 18px;
     color: #fff;
@@ -54,7 +54,7 @@
     line-height: 26px;
 }
 
-.container .texto .botao a {
+.botao a {
     width: 200px;
     height: 55px;
     display: flex;
@@ -69,14 +69,14 @@
     color: var(--background-color);
 }
 
-.container .texto .botao a:hover{
+.texto .botao a:hover{
     background-color: var(--active-state);
     color: #fff;
 
 }
 
 /* ----------------Footer-------------- */
-.container .social {
+.social {
     grid-area: footer;
     display: flex;
     justify-content: right;
@@ -86,7 +86,7 @@
     transition: 0.3s;
 }
 
-.container .social a {
+.social a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -97,7 +97,7 @@
     width: 40px;
 }
 
-.container .social a:hover {
+.social a:hover {
     border-color: var(--active-state);
     color: var(--active-state);
 }
